@@ -6,7 +6,7 @@ Hi ! My name is Christopher, I'm currently a Windev developer.
 ![Windev](https://img.shields.io/badge/-Windev-yellow)
 and 
 ![Webdev](https://img.shields.io/badge/-Webdev-blue)
-- 🌱 I’m currently learning ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=Javascript&logoColor=white) and ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
+- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter&logoColor=white)
 
 ### Contact Me 📧
 
