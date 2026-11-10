@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-Hi ! My name is Christopher, I'm currently a Windev developer.
+Hi ! My name is Christopher, I'm currently a Windev developer at SCR Informatiques.
 
 - 🔭 I’m currently working on 
 ![Windev](https://img.shields.io/badge/-Windev-yellow)
-and 
-![Webdev](https://img.shields.io/badge/-Webdev-blue)
-- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter&logoColor=white)
 
 ### Contact Me 📧
 
